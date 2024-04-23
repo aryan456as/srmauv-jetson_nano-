@@ -1,0 +1,8 @@
+#goal definition
+float64 heading_setpoint
+---
+#result definition
+float64 heading_final
+---
+#feedback
+float64 heading_error

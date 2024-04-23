@@ -1,0 +1,10 @@
+1. Start ROSCORE
+2. Start thruster node
+3. Start rosserial
+4. Start depth_controller
+5. Start depth_server
+6. Start depth_client
+7. Start PCA9685Jetson Node
+
+Notes:
+In a launch file a actionlib server and a pid controller package node cannot be launched together. We need to make seperate launch files.

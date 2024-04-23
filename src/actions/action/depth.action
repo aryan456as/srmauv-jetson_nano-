@@ -1,0 +1,8 @@
+#goal definition
+int16 depth_setpoint
+---
+#result definition
+int16 depth_final
+---
+#feedback
+int16 depth_error

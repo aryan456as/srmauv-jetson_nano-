@@ -1,0 +1,7 @@
+<launch>
+
+<include file="$(find launch)/Controller/image_controller_x.launch"/>
+<include file="$(find launch)/Controller/image_controller_y.launch"/>
+
+
+</launch>
